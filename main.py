@@ -9,9 +9,7 @@ def main():
 
         # iterate lines
         for line in lines:
-            # iterate chars
-            for index, char in enumerate(line):
-                pass
+            pass
 
 if __name__ == "__main__":
     main()
