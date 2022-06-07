@@ -1,4 +1,3 @@
-### example main.py
 
 def main():
     input_file = "input.txt"
